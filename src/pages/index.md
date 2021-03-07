@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: yo this is firer
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### in a **good** way
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text

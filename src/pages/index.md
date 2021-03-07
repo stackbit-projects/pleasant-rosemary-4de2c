@@ -12,7 +12,7 @@ sections:
     section_id: intro
     type: section_content
     content: |
-      putting your name on the internet shoulnd't be a priviledge lol
+      # putting your name on the internet **shoulnd't be a priviledge** lol
   - title: Recent Posts
     section_id: posts
     type: section_posts
